@@ -1,0 +1,4 @@
+name: Test2
+version: 0.1
+main: edu.unca.jruggier.Test2.Test2
+load: startup
